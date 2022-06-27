@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Marlon-Urena/chat-app-frontend
+[submodule "backend/authentication-service"]
+	path = backend/authentication-service
+	url = https://github.com/Marlon-Urena/authentication-service

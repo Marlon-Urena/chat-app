@@ -7,3 +7,6 @@
 [submodule "backend/user-account-service"]
 	path = backend/user-account-service
 	url = https://github.com/Marlon-Urena/userAccountService
+[submodule "backend/chat-service"]
+	path = backend/chat-service
+	url = https://github.com/Marlon-Urena/chat-service

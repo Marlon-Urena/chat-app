@@ -4,3 +4,6 @@
 [submodule "backend/authentication-service"]
 	path = backend/authentication-service
 	url = https://github.com/Marlon-Urena/authentication-service
+[submodule "backend/user-account-service"]
+	path = backend/user-account-service
+	url = https://github.com/Marlon-Urena/userAccountService
